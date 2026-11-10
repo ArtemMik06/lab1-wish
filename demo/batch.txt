@@ -1,0 +1,5 @@
+ls
+echo batch mode works
+path /bin /usr/bin
+cat demo/batch.txt > demo/copy.txt
+wc -l demo/copy.txt

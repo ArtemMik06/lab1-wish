@@ -1,0 +1,11 @@
+$ ./wish demo/batch.txt
+Makefile
+demo
+screenshots
+wish
+wish.c
+batch mode works
+5 demo/copy.txt
+$ ./wish a b
+An error has occurred
+(exit code 1)

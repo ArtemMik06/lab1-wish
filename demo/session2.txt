@@ -1,0 +1,24 @@
+wish> path /bin /usr/bin
+wish> ls -la > demo/out.txt
+wish> cat demo/out.txt
+total 48
+drwxr-xr-x 4 root root  4096 Nov 10 21:39 .
+drwxr-xr-x 3 root root  4096 Nov 10 21:38 ..
+-rw-r--r-- 1 root root   125 Nov 10 21:38 Makefile
+drwxr-xr-x 2 root root  4096 Nov 10 21:39 demo
+drwxr-xr-x 2 root root  4096 Nov 10 21:39 screenshots
+-rwxr-xr-x 1 root root 17208 Nov 10 21:39 wish
+-rw-r--r-- 1 root root  4825 Nov 10 21:39 wish.c
+wish> ls > a b
+An error has occurred
+wish> ls > f1 > f2
+An error has occurred
+wish> echo one & echo two & echo three
+one
+two
+three
+wish> sleep 1 & sleep 1 & echo parallel done
+parallel done
+wish> nosuchcommand
+An error has occurred
+wish> exit

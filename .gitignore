@@ -1,0 +1,4 @@
+wish
+*.o
+demo/out.txt
+demo/copy.txt

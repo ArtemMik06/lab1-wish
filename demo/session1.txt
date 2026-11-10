@@ -1,0 +1,23 @@
+wish> pwd
+/home/user/lab1-wish
+wish> ls
+Makefile  demo	screenshots  wish  wish.c
+wish> echo hello from wish
+hello from wish
+wish> cd /tmp
+wish> pwd
+/tmp
+wish> cd
+An error has occurred
+wish> cd /no/such/dir
+An error has occurred
+wish> exit 1
+An error has occurred
+wish> cd /home/user/lab1-wish
+wish> path
+wish> ls
+An error has occurred
+wish> path /bin /usr/bin
+wish> ls -l Makefile
+-rw-r--r-- 1 root root 125 Nov 10 21:38 Makefile
+wish> exit
