@@ -1,6 +1,6 @@
 # Програмний проєкт 1 — Unix Shell `wish`
 
-**Виконав:** ________________ (ПІБ), група ______
+**Виконав:** Микулінський Артем Віталійович
 
 Реалізація простої командної оболонки `wish` (Wisconsin Shell) за завданням
 [OSTEP processes-shell](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/processes-shell/README.md).
